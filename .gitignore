@@ -1,0 +1,109 @@
+# gitignore c++
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.dSYM
+*.so
+*.dylib
+*.dll
+*.pyc
+
+# Linker files
+*.ilk
+*.exp
+*.pdb
+*.lib
+*.a
+*.la
+*.lo
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# QtCreator
+*.autosave
+*.pro.user
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCtreator C++ Debug
+*.gcno
+*.gcda
+
+# Visual Studio Code
+.vscode
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Visual Studio 2015
+.vs/
+*.vspscc
+*.vspx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.sln.ide-shm
+*.sln.ide-wal
+*.psscc
+*.psess
+*.vsp
+*.vspx
+*.vsix
+*.vsixmanifest
+*.tss
+*.vssettings
+*.vsconfig
+*.vssscc
+*.vc.db
+*.vc.VC.opendb
+*.sqlite3
+*.sqlite
+*.mdf
+*.ldf
+*.sdf
+*.suo
+*.opensdf
+*.dbmdl
+*.
+
+rpg_loja
+*.exe
